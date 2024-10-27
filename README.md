@@ -20,5 +20,5 @@ To get a local copy of this project up and running, follow these steps:
 - 
 ## 📷 Screenshots
 
-![Screenshot of the app](https://github.com/Nickss5/todo-FullStack/blob/main/snapshot_app.png)
+![Screenshot of the app](https://github.com/Nickss5/contact-form-ui/blob/main/snapshot-frontend.png)
 
