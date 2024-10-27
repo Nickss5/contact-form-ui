@@ -17,9 +17,8 @@ To get a local copy of this project up and running, follow these steps:
 
 - Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 - Familiarity with npm (Node Package Manager) for managing packages.
+- 
+## 📷 Screenshots
 
-### Installation
+![Screenshot of the app](https://github.com/Nickss5/todo-FullStack/blob/main/snapshot_app.png)
 
-Clone the repository:
-   ```bash
-   git clone https://github.com/Nickss5/contact-form-ui.git
